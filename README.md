@@ -1,4 +1,4 @@
-# 👩‍💻 Natalia Goditskaya (@Myawk0)
+# Natalia Goditskaya (@Myawk0)
 
 <div id="header" align="center">
   <img src="https://github.com/Myawk0/Myawk0/assets/89804841/81ce77a6-bf9e-4934-8556-56bae8f51a19" width="150"/>
@@ -13,4 +13,17 @@
   <img src="https://komarev.com/ghpvc/?username=Myawk0&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
 
+### :woman_technologist: About Me :
+I am an iOS Developer. Currently looking for a job so if you have some information - see Contacts.
+
+
+### 🏋️Skills
+- **Language**: Swift
+- **UI Frameworks**: UIKit, SwiftUI
+- **Network**: URLSession, Alamofire, Firebase
+- **Storage**: UserDefaults, NSCoder, CoreData, Realm
+- **Tests**: XCTest (Unit and UI tests)
+- **Design Patterns**: MVC, MVP, MVVM, VIPER
+- **Principles**: OOP, SOLID, KISS, DRY, YAGNI
