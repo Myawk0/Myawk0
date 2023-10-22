@@ -13,17 +13,23 @@
   <img src="https://komarev.com/ghpvc/?username=Myawk0&style=flat-square&color=blue" alt=""/>
 </div>
 
----
 
-### :woman_technologist: About Me :
+
+## :woman_technologist: About Me :
 I am an iOS Developer. Currently looking for a job so if you have some information - see Contacts.
 
 
-### 🏋️Skills
-- **Language**: Swift
-- **UI Frameworks**: UIKit, SwiftUI
-- **Network**: URLSession, Alamofire, Firebase
-- **Storage**: UserDefaults, NSCoder, CoreData, Realm
-- **Tests**: XCTest (Unit and UI tests)
-- **Design Patterns**: MVC, MVP, MVVM, VIPER
-- **Principles**: OOP, SOLID, KISS, DRY, YAGNI
+
+## 🏋️ Skills
+- **Language**: `Swift`
+- **UI Frameworks**: `UIKit`, `SwiftUI`
+- **Network**: `URLSession`, `Alamofire`, `Firebase`
+- **Storage**: `UserDefaults`, `NSCoder`, `CoreData`, `Realm`
+- **Tests**: `XCTest` (Unit and UI tests)
+- **Design Patterns**: `MVC`, `MVP`, `MVVM`, `VIPER`
+- **Principles**: `OOP`, `SOLID`, `KISS`, `DRY`, `YAGNI`
+
+## 📞 Contacts
+- Telegram (preferred): <a href="https://t.me/myawk0">@myawk0</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/ngoditskaya/">in/ngoditskaya</a>
+- Email: <a href="mailto:ngoditskaya@mail.ru">ngoditskaya@mail.ru</a>
