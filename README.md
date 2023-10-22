@@ -16,7 +16,7 @@
 
 
 ## :woman_technologist: About Me :
-I am an iOS Developer. Currently looking for a job so if you have some information - see Contacts.
+I am an iOS Developer. Currently looking for a job so if you have some information - see [Contacts](#contacts).
 
 
 
@@ -29,7 +29,17 @@ I am an iOS Developer. Currently looking for a job so if you have some informati
 - **Design Patterns**: `MVC`, `MVP`, `MVVM`, `VIPER`
 - **Principles**: `OOP`, `SOLID`, `KISS`, `DRY`, `YAGNI`
 
+<a name="contacts"></a>
 ## 📞 Contacts
 - Telegram (preferred): <a href="https://t.me/myawk0">@myawk0</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/ngoditskaya/">in/ngoditskaya</a>
 - Email: <a href="mailto:ngoditskaya@mail.ru">ngoditskaya@mail.ru</a>
+
+## 🔥 My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Myawk0&theme=dark&background=22262F&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Myawk0&show_icons=true&theme=dark)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Myawk0&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Myawk0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
