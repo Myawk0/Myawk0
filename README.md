@@ -1,5 +1,8 @@
-# Natalia Goditskaya (@Myawk0)
-
+# Natalia
+<!---
+Goditskaya
+(@Myawk0)
+-->
 <div id="header" align="center">
   <img src="https://github.com/Myawk0/Myawk0/assets/89804841/81ce77a6-bf9e-4934-8556-56bae8f51a19" width="150"/>
   <div id="badges">
@@ -31,9 +34,9 @@ I am an iOS Developer. Currently looking for a job so if you have some informati
 
 <a name="contacts"></a>
 ## 📞 Contacts
-- **Telegram** (preferred): <a href="https://t.me/myawk0">@myawk0</a>
-- **LinkedIn**: <a href="https://www.linkedin.com/in/ngoditskaya/">in/ngoditskaya</a>
-- **Email**: <a href="mailto:ngoditskaya@mail.ru">ngoditskaya@mail.ru</a>
+- **Telegram** (preferred): <a href="https://t.me/myawk0">@username</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/ngoditskaya/">in/username</a>
+- **Email**: <a href="mailto:ngoditskaya@mail.ru">username@some_mail.ru</a>
 
 ## 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Myawk0&theme=dark&background=22262F&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
