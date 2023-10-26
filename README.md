@@ -38,7 +38,7 @@ I am an iOS Developer. Currently looking for a job so if you have some informati
 ## 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Myawk0&theme=dark&background=22262F&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Myawk0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Myawk0&show_icons=true&theme=ayu-mirage&rank_icon=percentile&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Myawk0&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
