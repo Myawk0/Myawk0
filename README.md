@@ -15,7 +15,7 @@
 
 
 
-## :woman_technologist: About Me :
+## 👩‍💻: About Me :
 I am an iOS Developer. Currently looking for a job so if you have some information - see [Contacts](#contacts).
 
 
